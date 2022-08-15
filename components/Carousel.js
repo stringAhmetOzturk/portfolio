@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from "next/image"
+
 import styles from '../styles/Home.module.css'
 
 const Carousel = () => {
@@ -8,11 +8,11 @@ const Carousel = () => {
   <div className="carousel-inner">
     <div className="carousel-item active">
     <h1>Hi there!
-I'm Ahmet from Istanbul,Turkey.
-I'm a full stack developer, with over 3 years of experience in Node.js, Javascript, HTML, React, and CSS.</h1>
+I am Ahmet from Istanbul,Turkey.
+I am a full stack developer, with over 3 years of experience in Node.js, Javascript, HTML, React, and CSS.</h1>
     </div>
     <div className="carousel-item">
-    <h1>I'm constantly working on numerous side projects, which means I'm constantly introduced to dozens of languages and libraries.</h1>
+    <h1>I am constantly working on numerous side projects, which means I am constantly introduced to dozens of languages and libraries.</h1>
     </div>
     <div className="carousel-item">
       
